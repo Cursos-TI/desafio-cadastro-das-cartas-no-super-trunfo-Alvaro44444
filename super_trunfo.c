@@ -33,7 +33,6 @@ int main() {
     printf("\nCarta 01\nEstado: %c\nCodigo: %c01\nNome da Cidade: %s\nPopulacao: %dhabitantes\nArea: %.2f quilometros quadrados\nPIB: R$%.2f\nNumero de Pontos Turisticos: %d\nDensidade Populacional: %.2fhab/quilometros quadrados\nPIB per Capita: R$%.2f\nSuper Poder: %.2f \n"
     , estado1, estado1, nome_c1, pop1, area1, PIB1, P_turistico1, D_pop1, PIB_p_capita1, super_poder1);
 
-    
     //implementação do usuário para a carta 02
     printf("digite a letra do estado da carta 02: ");
     scanf(" %c", &estado2);
